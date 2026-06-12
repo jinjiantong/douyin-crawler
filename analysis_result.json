@@ -1,0 +1,890 @@
+{
+  "meta": {
+    "generated_at": "2026-05-25 01:10:27",
+    "total_videos_user": 105,
+    "total_videos_comments": 105,
+    "total_comments": 129499,
+    "total_digg": 5588239,
+    "total_share": 823711,
+    "total_collect": 2564660,
+    "total_comment_api": 179887,
+    "blogger_name": "秋芝2046",
+    "blogger_followers": 1243947,
+    "blogger_total_favorited": 6713614
+  },
+  "dimension1_blogger": {
+    "blogger_info": {
+      "nickname": "秋芝2046",
+      "uid": "2931726622135948",
+      "sec_uid": "MS4wLjABAAAAwbbVuf1W2DdgRe0xCa0oxg1ZIHbzuiTzyjq3NcOVgBuu6qIidYlMYqbL3ZFY2swu",
+      "signature": "AI很单纯，复杂的是人～\n后期｜文案｜产品 欢迎投递简历 : join@qiuzhi2046.com\n商务合作｜aiboole（注明来意 非本人）",
+      "follower_count": 1243947,
+      "following_count": 10,
+      "total_favorited": 6713614,
+      "favoriting_count": 28,
+      "mix_count": 6,
+      "series_count": 4,
+      "gender": "女",
+      "city": "深圳",
+      "province": "广东",
+      "country": "中国",
+      "ip_location": "IP属地：广东",
+      "school_name": "",
+      "custom_verify": "",
+      "enterprise_verify_reason": "",
+      "is_star": false,
+      "verification_type": 0,
+      "unique_id": "32571643812",
+      "dog_card_info": {
+        "dog_card_id": 0,
+        "dog_card_text": "短剧最热榜",
+        "rank": 11,
+        "rank_schema": "https://aweme.snssdk.com/magic/eco/procode/magicProcodeActivity_playsot/index.html?activityId=60810dc17819ac032ce3bd3a&page=2&activeIndex=0&hide_nav_bar=1&should_full_screen=1",
+        "rank_type": "hot"
+      }
+    },
+    "total_videos": 105,
+    "total_digg": 5588239,
+    "total_comments_api": 179887,
+    "total_share": 823711,
+    "total_collect": 2564660,
+    "total_comments_crawled": 129499,
+    "avg_digg_per_video": 53221,
+    "avg_comments_per_video": 1713,
+    "avg_share_per_video": 7845,
+    "interaction_rate": 17.96,
+    "top_hashtags": {},
+    "top_video_tags": {
+      "科技": 53,
+      "个人管理": 37,
+      "职场技能": 37,
+      "行业资讯": 36,
+      "办公效率": 33,
+      "互联网资讯": 30,
+      "科技周边": 9,
+      "手机": 8,
+      "其他": 7,
+      "手机功能教程": 6,
+      "新闻资讯": 6,
+      "职场营销": 4,
+      "二次元": 3,
+      "二次元内容": 3,
+      "动漫IP": 3
+    },
+    "top_videos": [
+      {
+        "aweme_id": "7549794232693738815",
+        "desc": "国产P图登顶！20多种多图逆天玩法～ #Seedream #豆包图像创作模型 #秋芝2046 #豆包大模型 #火山引擎",
+        "create_time": 1757844100,
+        "digg_count": 337399,
+        "comment_count": 15958,
+        "share_count": 78186,
+        "collect_count": 186852,
+        "play_count": 0,
+        "duration": 514182,
+        "is_top": 0,
+        "chapter_abstract": "",
+        "video_tag": [
+          "个人管理",
+          "职场技能",
+          "办公效率"
+        ],
+        "hashtag": []
+      },
+      {
+        "aweme_id": "7471269585375874358",
+        "desc": "DeepSeek实用技巧2.0，什么是API？ 满血免费接入联网/知识库/iphone#AI #deepseek #AI在抖音 #抖音精选 #秋芝2046",
+        "create_time": 1739540929,
+        "digg_count": 251443,
+        "comment_count": 3310,
+        "share_count": 53580,
+        "collect_count": 189552,
+        "play_count": 0,
+        "duration": 1476189,
+        "is_top": 0,
+        "chapter_abstract": "",
+        "video_tag": [
+          "个人管理",
+          "职场技能",
+          "办公效率"
+        ],
+        "hashtag": []
+      },
+      {
+        "aweme_id": "7607307984871427382",
+        "desc": "中老年人豆包AI使用指南 #人类对豆包的开发不足百分之一#回家第一件事是教爸妈用豆包#记录爸妈第一次用AI的样子",
+        "create_time": 1771222922,
+        "digg_count": 184805,
+        "comment_count": 1662,
+        "share_count": 19355,
+        "collect_count": 22899,
+        "play_count": 0,
+        "duration": 464352,
+        "is_top": 0,
+        "chapter_abstract": "",
+        "video_tag": [
+          "科技",
+          "科技周边",
+          "其他"
+        ],
+        "hashtag": []
+      },
+      {
+        "aweme_id": "7564684402991697190",
+        "desc": "我用AI做了个花钱模拟器，5000亿能买些啥？！【AI编程】 #AI新星计划 #豆包编程 #豆包电脑版 #秋芝2046 #2025开学季",
+        "create_time": 1761297251,
+        "digg_count": 181906,
+        "comment_count": 5859,
+        "share_count": 9952,
+        "collect_count": 15143,
+        "play_count": 0,
+        "duration": 384313,
+        "is_top": 0,
+        "chapter_abstract": "",
+        "video_tag": [
+          "科技",
+          "行业资讯",
+          "互联网资讯"
+        ],
+        "hashtag": []
+      },
+      {
+        "aweme_id": "7506894138885950720",
+        "desc": "和豆包共享你的屏幕，让她全程干活？ 从复杂表格到创意设计，动嘴让AI帮你搞定～ #AI新星计划 #Agent #秋芝2046 #挑战用豆包帮我打工  #你的共享搭子豆包已就位",
+        "create_time": 1747908033,
+        "digg_count": 175755,
+        "comment_count": 2568,
+        "share_count": 19103,
+        "collect_count": 26779,
+        "play_count": 0,
+        "duration": 381970,
+        "is_top": 0,
+        "chapter_abstract": "",
+        "video_tag": [
+          "个人管理",
+          "职场技能",
+          "办公效率"
+        ],
+        "hashtag": []
+      },
+      {
+        "aweme_id": "7468217899266739483",
+        "desc": "【摆脱卡顿】DeepSeek使用渠道+实战技巧大集合！ 建议收藏～#AI #deepseek #AI在抖音 #抖音年终知识大赏 #秋芝2046",
+        "create_time": 1738830099,
+        "digg_count": 162949,
+        "comment_count": 1507,
+        "share_count": 28701,
+        "collect_count": 129890,
+        "play_count": 0,
+        "duration": 1094173,
+        "is_top": 0,
+        "chapter_abstract": "",
+        "video_tag": [
+          "科技",
+          "行业资讯",
+          "互联网资讯"
+        ],
+        "hashtag": []
+      },
+      {
+        "aweme_id": "7465905514128493835",
+        "desc": "一条视频搞清楚Deepseek为什么这么火？【含本地部署】 #AI #deepseek #AI在抖音 #新知贺岁眼界大开  #秋芝2046",
+        "create_time": 1738291822,
+        "digg_count": 162196,
+        "comment_count": 3299,
+        "share_count": 37636,
+        "collect_count": 41975,
+        "play_count": 0,
+        "duration": 1057045,
+        "is_top": 0,
+        "chapter_abstract": "",
+        "video_tag": [
+          "科技",
+          "行业资讯",
+          "互联网资讯"
+        ],
+        "hashtag": []
+      },
+      {
+        "aweme_id": "7630747867296189737",
+        "desc": "用AI的方式，重新打开飞书！【建议收藏】 #AI新星计划 #飞书AI #秋芝2046 #飞书aily #前沿科技趋势发布月",
+        "create_time": 1776676280,
+        "digg_count": 135118,
+        "comment_count": 4734,
+        "share_count": 9804,
+        "collect_count": 39966,
+        "play_count": 0,
+        "duration": 1054229,
+        "is_top": 0,
+        "chapter_abstract": "",
+        "video_tag": [
+          "科技",
+          "行业资讯",
+          "互联网资讯"
+        ],
+        "hashtag": []
+      },
+      {
+        "aweme_id": "7544703408285027638",
+        "desc": "掌管P图的神！Nano Banana究极玩法全公开！ 建议收藏～ #AI绘画 #P图 #AI新星计划 #秋芝2046 #2025开学季",
+        "create_time": 1756638170,
+        "digg_count": 132267,
+        "comment_count": 8856,
+        "share_count": 37313,
+        "collect_count": 109143,
+        "play_count": 0,
+        "duration": 496767,
+        "is_top": 0,
+        "chapter_abstract": "",
+        "video_tag": [
+          "个人管理",
+          "职场技能",
+          "办公效率"
+        ],
+        "hashtag": []
+      },
+      {
+        "aweme_id": "7640385127511641382",
+        "desc": "40分钟学会Codex！“零基础”终级教程～ #codex #秋芝2046 #AI工具 #前沿科技趋势发布月 #AI新星计划",
+        "create_time": 1778915791,
+        "digg_count": 127473,
+        "comment_count": 2232,
+        "share_count": 22033,
+        "collect_count": 122600,
+        "play_count": 0,
+        "duration": 2428342,
+        "is_top": 0,
+        "chapter_abstract": "",
+        "video_tag": [
+          "个人管理",
+          "职场技能",
+          "办公效率"
+        ],
+        "hashtag": []
+      },
+      {
+        "aweme_id": "7602239781107453219",
+        "desc": "手把手彻底学会 Agent Skills！【小白教程】 #AI新星计划 #AgentSkills #AI #秋芝2046 #前沿科技趋势发布月",
+        "create_time": 1770034399,
+        "digg_count": 116043,
+        "comment_count": 7967,
+        "share_count": 18156,
+        "collect_count": 98716,
+        "play_count": 0,
+        "duration": 1158467,
+        "is_top": 0,
+        "chapter_abstract": "",
+        "video_tag": [
+          "个人管理",
+          "职场技能",
+          "办公效率"
+        ],
+        "hashtag": []
+      },
+      {
+        "aweme_id": "7596614559759109385",
+        "desc": "三分钟，教你一套万能的AI PPT大法！ #AI新星计划 #三分钟生成PPT #秋芝2046 #人类对豆包的开发不足百分之一 #前沿科技趋势发布月",
+        "create_time": 1768728827,
+        "digg_count": 114721,
+        "comment_count": 1518,
+        "share_count": 16889,
+        "collect_count": 80962,
+        "play_count": 0,
+        "duration": 298538,
+        "is_top": 0,
+        "chapter_abstract": "",
+        "video_tag": [
+          "个人管理",
+          "职场技能",
+          "办公效率"
+        ],
+        "hashtag": []
+      },
+      {
+        "aweme_id": "7608900384815435018",
+        "desc": "人人免费出大片！豆包Seedance 2.0实测对比+解析！ #AI新星计划 #秋芝2046 #前沿科技趋势发布月 #豆包ai #豆包seedance2.0",
+        "create_time": 1771585322,
+        "digg_count": 107198,
+        "comment_count": 1230,
+        "share_count": 4301,
+        "collect_count": 18867,
+        "play_count": 0,
+        "duration": 610967,
+        "is_top": 0,
+        "chapter_abstract": "",
+        "video_tag": [
+          "科技",
+          "行业资讯",
+          "互联网资讯"
+        ],
+        "hashtag": []
+      },
+      {
+        "aweme_id": "7589669346620820771",
+        "desc": "年度好用AI大分享！【小白必备】 #ai新星计划#抖音年终知识大赏#AI工具推荐#秋芝2046#前沿科技趋势发布月",
+        "create_time": 1767107645,
+        "digg_count": 106942,
+        "comment_count": 1819,
+        "share_count": 19410,
+        "collect_count": 100295,
+        "play_count": 0,
+        "duration": 687500,
+        "is_top": 1,
+        "chapter_abstract": "",
+        "video_tag": [
+          "科技",
+          "行业资讯",
+          "互联网资讯"
+        ],
+        "hashtag": []
+      },
+      {
+        "aweme_id": "7524688881766223155",
+        "desc": "太好玩啦！一句话P图的免费AI！ 【Flux Kontext小白本地教程】#AI #Flux #P图 #AI新星计划 #秋芝2046",
+        "create_time": 1751978177,
+        "digg_count": 105900,
+        "comment_count": 3182,
+        "share_count": 21944,
+        "collect_count": 88610,
+        "play_count": 0,
+        "duration": 468972,
+        "is_top": 0,
+        "chapter_abstract": "",
+        "video_tag": [
+          "个人管理",
+          "职场技能",
+          "办公效率"
+        ],
+        "hashtag": []
+      }
+    ],
+    "content_directions": [
+      "AI工具教程",
+      "Agent/智能体",
+      "AI办公效率",
+      "AI编程开发",
+      "Claude Code",
+      "AI PPT制作",
+      "TRAE SOLO",
+      "飞书AI",
+      "AI绘画",
+      "AI视频"
+    ]
+  },
+  "dimension2_tech_trend": {
+    "AI办公": 20287,
+    "提示词工程": 9373,
+    "AI大模型": 6892,
+    "Agent/智能体": 1986,
+    "AI编程": 1436,
+    "AI绘画/设计": 676,
+    "AI写作": 582,
+    "AI视频": 513,
+    "AI数字人": 463,
+    "AI知识库": 83
+  },
+  "dimension2_tool_top20": {
+    "豆包": 4998,
+    "deepseek": 736,
+    "gemini": 534,
+    "solo": 419,
+    "trae": 317,
+    "飞书": 264,
+    "cursor": 261,
+    "claude": 199,
+    "龙虾": 178,
+    "即梦": 172,
+    "扣子": 160,
+    "chatgpt": 123,
+    "sora": 92,
+    "claude code": 89,
+    "seedance": 81,
+    "kimi": 71,
+    "o3": 69,
+    "comfyui": 49,
+    "o1": 47,
+    "aily": 41
+  },
+  "dimension3_emotion": {
+    "期待/兴奋": {
+      "count": 11153,
+      "percentage": 8.61,
+      "samples": [
+        "你好，cc支持visual studio2022 IDE吗",
+        "秋芝秋芝，求文档，感谢[感谢]",
+        "已三连，求文档[感谢][感谢][感谢]",
+        "博主求文档 [感谢] 已三连",
+        "求文档@秋芝2046 [感谢][感谢][感谢]"
+      ]
+    },
+    "焦虑/紧迫": {
+      "count": 875,
+      "percentage": 0.68,
+      "samples": [
+        "这怎么办",
+        "出现这个界面怎么办，没有ds的api",
+        "CC switch提示因为政策原因无法安装怎么办",
+        "为啥我的cc写出来的前端页面太偏了[泪奔][泪奔]空白太大了，让它修，它跟个傻子一样[流泪][流泪]怎么办",
+        "大学生可以领阿里云300块的卷，调用dsv4或者glm5.1，然后让你们班不懂这些的也申请一下你拿来无限续杯[看]"
+      ]
+    },
+    "困惑/求助": {
+      "count": 41939,
+      "percentage": 32.39,
+      "samples": [
+        "怎么感觉我这个少了点什么[流泪]",
+        "求文檔",
+        "老师为什么我的cursor是这样的",
+        "为什么按照步骤来，输入claude出现这个",
+        "哇，60分钟就能全面掌握Claude Code呀！我也想要文档呢，还想知道怎么能每天自动查找行业最新动态，token消耗好快呀！"
+      ]
+    },
+    "不满/吐槽": {
+      "count": 2078,
+      "percentage": 1.6,
+      "samples": [
+        "跑完了看板了，但是导入数据后看板的数据不会变，干了一天都不行，这个怎么搞？",
+        "我的cursor怎么和你的界面差别巨大",
+        "为啥我用opencli差小红书照片他说这是禁止的 [发呆]",
+        "按照步奏来进行了，还是不行，而且我的是英文的Cursor[泣不成声][泣不成声][泣不成声]",
+        "我的cursor怎么安装了和你的完全不一样，好多菜单都没有，快捷键也都不行"
+      ]
+    },
+    "积极/行动": {
+      "count": 2429,
+      "percentage": 1.88,
+      "samples": [
+        "哇，60分钟就能全面掌握Claude Code呀！我也想要文档呢，还想知道怎么能每天自动查找行业最新动态，token消耗好快呀！",
+        "国内ds模型的api已经很便宜了，现在还有人在纠结token",
+        "秋芝，你要知道长得漂亮的已经发文档给我了",
+        "花了一下午看完并且跑了一遍，skill还没搞定~ 其他的都试过了，番茄闹钟也做出来了，优秀~求文档啊~",
+        "我也想要文档，另外我觉得最重要的是可以每天自动帮我去查找行业的最新动态，"
+      ]
+    }
+  },
+  "dimension3_cognition": {
+    "完全小白": 1086,
+    "初步了解": 1257,
+    "有一定基础": 4440,
+    "深度用户": 972
+  },
+  "dimension4_learning_intent": {
+    "提示词工程": {
+      "count": 9369,
+      "percentage": 7.23,
+      "urgent_count": 36,
+      "samples": [
+        "安利一个自己开发的微信小程序 文案快写助手 里面就提供很多模板提示词写出来文案就比较符合想要的各种语境",
+        "安利一个自己开发的微信小程序 文案快写助手 里面就提供很多模板提示词写出来文案就比较符合想要的各种语境",
+        "有安装其他app的提示词么？"
+      ]
+    },
+    "AI视频制作": {
+      "count": 3230,
+      "percentage": 2.49,
+      "urgent_count": 48,
+      "samples": [
+        "视频已全部看完且跟随操作，求文档[猪头][猪头]",
+        "对一个小白来说，你这篇长视频真的太无敌了！感激！！！",
+        "@豆包 总结一下视频内容"
+      ]
+    },
+    "AI编程开发": {
+      "count": 1732,
+      "percentage": 1.34,
+      "urgent_count": 26,
+      "samples": [
+        "老师为什么我的cursor是这样的",
+        "cursor不是要翻墙吗",
+        "为什么我按照这个安装claude code后，输入做番茄钟，给我的不是直接做出来一个番茄钟，而是给了我一套代码，让我自己保存运行"
+      ]
+    },
+    "Agent/智能体开发": {
+      "count": 1147,
+      "percentage": 0.89,
+      "urgent_count": 22,
+      "samples": [
+        "花了一下午看完并且跑了一遍，skill还没搞定~ 其他的都试过了，番茄闹钟也做出来了，优秀~求文档啊~",
+        "@@秋芝2046 老师好CC作为智能体本身最好用的应该是它自身的大脑，大脑才是核心啊，能理解开发公司地区限制，导致大脑不能用。可是无法理解的是离开了核心大脑装上国内大模型大脑这个操作，我们为什么不用配",
+        "下几个skill要了我几百万token怎么回事"
+      ]
+    },
+    "AI办公自动化": {
+      "count": 874,
+      "percentage": 0.67,
+      "urgent_count": 18,
+      "samples": [
+        "上次你说 讲飞书",
+        "我想用CC写长文，结合本地知识库，能够解析word ppt pdf,生成word pdf ppt,自动按要求模板格式排版，图文混排。能出一个教程吗",
+        "如果只是辅助办公，不编程，PDF word Excel 价格分析对比，合同，这些事情，CC好用还是龙虾好用？"
+      ]
+    },
+    "AI写作/文案": {
+      "count": 508,
+      "percentage": 0.39,
+      "urgent_count": 2,
+      "samples": [
+        "@豆包  生成视频文案做成pdf发给我",
+        "招聘文案也是AI写的吗",
+        "目前我用过最强的是谷歌的notebooklm，其次是gemini和chartgpt，因为note实在太强了，给多个视频链接可以自动读取内容生产策略或者文章等等，最强没有之一，非常精准的内容，除了偶尔抽"
+      ]
+    },
+    "AI客服/对话": {
+      "count": 501,
+      "percentage": 0.39,
+      "urgent_count": 2,
+      "samples": [
+        "求文档[和你聊天]",
+        "安装cursor后第一步，在右边对话框里让ai把界面切换成中文，它会自动安装中文包，根据提示重新打开cursor进行后续操作。按视频方式安装CC报错是因为官方不支持我们地区，可以在视频界面切换到hom",
+        "我用来查文献，能不能设置对话形式，能看到历史对话和查文献"
+      ]
+    },
+    "AI绘画/设计": {
+      "count": 441,
+      "percentage": 0.34,
+      "urgent_count": 8,
+      "samples": [
+        "秋芝有点像豆包logo哎 [呲牙]",
+        "有没有推荐的api模型啊？deepseek的不能识图也不能绘图",
+        "想进，但怕做不好，学设计的。"
+      ]
+    },
+    "数据分析": {
+      "count": 365,
+      "percentage": 0.28,
+      "urgent_count": 1,
+      "samples": [
+        "跑完了看板了，但是导入数据后看板的数据不会变，干了一天都不行，这个怎么搞？",
+        "跑完了看板了，但是导入数据后看板的数据不会变，干了一天都不行，这个怎么搞？",
+        "赞=藏！NB！这种数据才更应该被推荐！#抖音算法团队"
+      ]
+    },
+    "AI知识库/RAG": {
+      "count": 75,
+      "percentage": 0.06,
+      "urgent_count": 2,
+      "samples": [
+        "我想用CC写长文，结合本地知识库，能够解析word ppt pdf,生成word pdf ppt,自动按要求模板格式排版，图文混排。能出一个教程吗",
+        "每天工作离不开Gemini ，got了[泪奔]周末决定整理整理我的知识库，学不完，根本学不完",
+        "国内知识库语雀，比ima好太多了吧"
+      ]
+    }
+  },
+  "dimension5_pain_points": {
+    "中层-成本/收费问题": {
+      "count": 5808,
+      "percentage": 4.48,
+      "samples": [
+        "这个要花钱吗",
+        "下载都下载不了 下载了开通会员还容易被封 何必去舔它[摊手]",
+        "免费的吗"
+      ]
+    },
+    "表层-操作不会用": {
+      "count": 1455,
+      "percentage": 1.12,
+      "samples": [
+        "为什么按照步骤来，输入claude出现这个",
+        "芝芝，求教程呀[送心]",
+        "求教程"
+      ]
+    },
+    "表层-工具选择困难": {
+      "count": 1058,
+      "percentage": 0.82,
+      "samples": [
+        "在VS code里面接入的cc和在终端的有什么区别吗",
+        "期待出一个cc,codex,opencode的harness对比",
+        "如果只是辅助办公，不编程，PDF word Excel 价格分析对比，合同，这些事情，CC好用还是龙虾好用？"
+      ]
+    },
+    "中层-效果不理想": {
+      "count": 953,
+      "percentage": 0.74,
+      "samples": [
+        "跑完了看板了，但是导入数据后看板的数据不会变，干了一天都不行，这个怎么搞？",
+        "我的cursor怎么和你的界面差别巨大",
+        "为啥我用opencli差小红书照片他说这是禁止的 [发呆]"
+      ]
+    },
+    "深层-职业焦虑": {
+      "count": 664,
+      "percentage": 0.51,
+      "samples": [
+        "可不可以出一个失业相关的做什么好点，ai对未来的影响相关[躺平]",
+        "怎么不招前端开发呀，是被ai完全替代了吗[泣不成声]",
+        "这几天，不出半个月，一个月内，必然会有一款跨时代新品引爆全网，轰动全世界，我估计三个月内必然有新闻爆炸出炉，各位AI君未来一年内肯定能看到，5年内大家就可以用到平价AI了"
+      ]
+    },
+    "中层-学不会/跟不上": {
+      "count": 334,
+      "percentage": 0.26,
+      "samples": [
+        "功能太复杂了[泪奔]",
+        "完全看不懂[捂脸][捂脸][捂脸]",
+        "看不懂"
+      ]
+    },
+    "深层-变现困难": {
+      "count": 197,
+      "percentage": 0.15,
+      "samples": [
+        "破站太多拿着秋叶的整合包去忽悠赚钱。什么得一键三连。你说部署他就说你配置不够。就是忽悠你去买他的9.9云电脑",
+        "我已经利用AI把我的交易体系形成了量化公式，选股能力没得说百分之98符合我的体系，已经开始稳定盈利",
+        "看完了，确实挺全的，就是需要网络和付费，不是专业能赚钱的，成本还是不低的 [捂脸]"
+      ]
+    },
+    "深层-缺乏系统学习": {
+      "count": 123,
+      "percentage": 0.09,
+      "samples": [
+        "我已经利用AI把我的交易体系形成了量化公式，选股能力没得说百分之98符合我的体系，已经开始稳定盈利",
+        "你好，你这边有教如何使用 ai 的课程吗？或者有什么商务咨询的服务？麻烦联系我",
+        "一杯奶茶提供工具学习规划"
+      ]
+    }
+  },
+  "dimension6_attitude": {
+    "积极拥抱": 2406,
+    "理性观望": 773,
+    "被动跟随": 1268,
+    "抗拒/怀疑": 378,
+    "焦虑恐惧": 287
+  },
+  "dimension6_learning_style": {
+    "视频教程": 3798,
+    "图文教程": 19704,
+    "实操/动手": 159,
+    "社群/互动": 347
+  },
+  "dimension7_business": {
+    "办公效率": {
+      "count": 20387,
+      "samples": [
+        "哇，60分钟就能全面掌握Claude Code呀！我也想要文档呢，还想知道怎么能每天自动查找行业最新动态，token消耗好快呀！",
+        "芝芝，求文档啊，非常求的那种",
+        "秋芝大美女，求文档工具[粉色爱心]"
+      ]
+    },
+    "教育/培训": {
+      "count": 7151,
+      "samples": [
+        "老师为什么我的cursor是这样的",
+        "背景音乐很多余，学习的时候要安静",
+        "老师求求文档，麻烦您了@秋芝2046 [泣不成声][泣不成声][泣不成声]"
+      ]
+    },
+    "技术开发": {
+      "count": 2891,
+      "samples": [
+        "为什么我按照这个安装claude code后，输入做番茄钟，给我的不是直接做出来一个番茄钟，而是给了我一套代码，让我自己保存运行",
+        "@@秋芝2046 老师好CC作为智能体本身最好用的应该是它自身的大脑，大脑才是核心啊，能理解开发公司地区限制，导致大脑不能用。可是无法理解的是离开了核心大脑装上国内大模型大脑这个操作，我们为什么不用配",
+        "求问 ccswitch找不到安装包是为什么"
+      ]
+    },
+    "内容创作/自媒体": {
+      "count": 1744,
+      "samples": [
+        "靓女博主[灵机一动]求文档",
+        "求文档，谢谢博主，博主辛苦[玫瑰]",
+        "博主求文档 [感谢] 已三连"
+      ]
+    },
+    "设计/创意": {
+      "count": 645,
+      "samples": [
+        "我最近也在用ai写小程序，trae+Gemini，只要创意够好，我相信这是一个很好的方向，现在已经上线四套了：\n自己修-数码维修指南\n户外绳结大师 \n简易配色 \n储奶助手-口粮保鲜管理",
+        "秋芝有点像豆包logo哎 [呲牙]",
+        "想进，但怕做不好，学设计的。"
+      ]
+    },
+    "数据分析": {
+      "count": 514,
+      "samples": [
+        "跑完了看板了，但是导入数据后看板的数据不会变，干了一天都不行，这个怎么搞？",
+        "如果只是辅助办公，不编程，PDF word Excel 价格分析对比，合同，这些事情，CC好用还是龙虾好用？",
+        "跑完了看板了，但是导入数据后看板的数据不会变，干了一天都不行，这个怎么搞？"
+      ]
+    },
+    "个人提升": {
+      "count": 471,
+      "samples": [
+        "说真的，跟你想近一些学技能，回复一下，不然找不到了[比心][比心][比心]没找到哪里应聘",
+        "什么技能也不会一蹴而就[捂脸]",
+        "第46集都出到AI界的连续剧了，建议直接申遗！年度好用AI分享听着像科技界《舌尖上的中国》，看得我恨不得立刻下载十个APP提升智商。小白看完秒变AI老炮儿，秋芝2046怕不是住在未来？建议下集结尾加个"
+      ]
+    },
+    "电商/营销": {
+      "count": 426,
+      "samples": [
+        "有直播吗",
+        "最近好多店主都在聊这个AI数字人直播，说连奶茶店老板都开始躺赢获客了～",
+        "可以帮我制作电商图片吗"
+      ]
+    }
+  },
+  "dimension8_value": {
+    "免费分享": {
+      "count": 4842,
+      "samples": [
+        "可以分享一下文档么？想学习一下",
+        "跑步十公里，边跑边听，从头到尾听完了。谢谢秋芝大佬的分享。",
+        "免费的吗"
+      ]
+    },
+    "态度亲和": {
+      "count": 3586,
+      "samples": [
+        "秋芝秋芝，求文档，感谢[感谢]",
+        "已三连，求文档[感谢][感谢][感谢]",
+        "求文档，谢谢博主，博主辛苦[玫瑰]"
+      ]
+    },
+    "内容实用": {
+      "count": 1520,
+      "samples": [
+        "老师，我的memory文件下下现在已经有一百多个规则文件了，导致现在很臃肿，还很浪费token，但是也都有用，有没有什么好的办法能够优化一下吗[流泪][流泪]",
+        "你怎么知道我只收藏不动手，麻烦给我文档，今天回去就动手[看]",
+        "出一个防封号科普，才是最干货的[白眼]"
+      ]
+    },
+    "讲解清晰": {
+      "count": 1164,
+      "samples": [
+        "讲的非常详细，求文档",
+        "主播你好，我详细的跟着你的教程学习，受益匪浅，请求获得你完整文档，谢谢",
+        "漂亮的小姐姐求个详细安装文档"
+      ]
+    },
+    "案例/演示": {
+      "count": 461,
+      "samples": [
+        "看完+实操用了2天，最后看总结又发现前面的忘记啦！[捂脸]得从头再来看一遍！[奋斗]",
+        "给孩子试试这个AI学习方案吧，价格实惠效果好！有疑问可以私信我，随时解答。",
+        "求文档，不知道cc 搭配ds4 使用效果怎么样？"
+      ]
+    },
+    "更新及时": {
+      "count": 435,
+      "samples": [
+        "哇，60分钟就能全面掌握Claude Code呀！我也想要文档呢，还想知道怎么能每天自动查找行业最新动态，token消耗好快呀！",
+        "我也想要文档，另外我觉得最重要的是可以每天自动帮我去查找行业的最新动态，",
+        "不学了，过半年学最新的[看]"
+      ]
+    }
+  },
+  "dimension9_course_demand": {
+    "第4章-AI高效办公": 19758,
+    "第2章-提示词工程": 9624,
+    "第6章-企业级开发": 1619,
+    "第3章-AI技能与工作流": 1279,
+    "第7章-自媒体运营": 960,
+    "第5章-龙虾智能体": 757,
+    "第1章-AI基础概念": 670
+  },
+  "dimension9_gap": {
+    "AI数字人": 455,
+    "AI音乐/语音": 362,
+    "AI编程助手": 286,
+    "AI视频生成": 227,
+    "AI绘画/图像": 81
+  },
+  "dimension10_suggestions": [
+    {
+      "type": "内容优化",
+      "suggestion": "增加\"AI工具选型指南\"专题，对比各工具优劣",
+      "priority": "高",
+      "source": "用户工具选择困难"
+    },
+    {
+      "type": "内容优化",
+      "suggestion": "增加更多\"从零到一\"的实操演示，降低学习门槛",
+      "priority": "高",
+      "source": "用户操作不会用"
+    },
+    {
+      "type": "内容优化",
+      "suggestion": "增加进阶内容的前置知识说明，降低认知跳跃",
+      "priority": "中",
+      "source": "用户学不会/跟不上"
+    },
+    {
+      "type": "内容优化",
+      "suggestion": "增加免费/低成本AI工具推荐专题",
+      "priority": "中",
+      "source": "用户关注成本问题"
+    },
+    {
+      "type": "内容优化",
+      "suggestion": "提供完整学习路线图，从入门到精通的清晰路径",
+      "priority": "高",
+      "source": "用户缺乏系统学习路径"
+    },
+    {
+      "type": "营销策略",
+      "suggestion": "在课程宣传中强调\"零基础可学\"\"系统化学习\"，缓解用户焦虑",
+      "priority": "中",
+      "source": "用户职业焦虑情感"
+    },
+    {
+      "type": "新增模块",
+      "suggestion": "新增\"AI视频生成实战\"模块（Sora/Seedance/可灵等）",
+      "priority": "高",
+      "source": "技术趋势缺口"
+    },
+    {
+      "type": "新增模块",
+      "suggestion": "新增\"AI绘画与设计实战\"模块（Midjourney/SD/ComfyUI）",
+      "priority": "中",
+      "source": "技术趋势缺口"
+    },
+    {
+      "type": "新增模块",
+      "suggestion": "新增\"AI编程助手深度实战\"模块（Claude Code/Cursor/Copilot）",
+      "priority": "高",
+      "source": "技术趋势缺口-Claude Code热度高"
+    },
+    {
+      "type": "新增模块",
+      "suggestion": "新增\"AI数字人实战\"模块",
+      "priority": "中",
+      "source": "技术趋势缺口"
+    },
+    {
+      "type": "协同策略",
+      "suggestion": "重点强化Top3学习方向：提示词工程、AI视频制作、AI编程开发",
+      "priority": "高",
+      "source": "用户学习意愿分析"
+    },
+    {
+      "type": "形式优化",
+      "suggestion": "保持\"手把手演示\"的教学风格，这是用户最认可的点",
+      "priority": "高",
+      "source": "用户价值认可分析"
+    },
+    {
+      "type": "形式优化",
+      "suggestion": "每节课增加\"实际应用场景\"环节，强化实用性",
+      "priority": "中",
+      "source": "用户价值认可分析"
+    },
+    {
+      "type": "营销策略",
+      "suggestion": "利用\"态度亲和\"和\"免费分享\"两大认可点作为课程宣传核心卖点",
+      "priority": "高",
+      "source": "用户价值认可分析"
+    },
+    {
+      "type": "形式优化",
+      "suggestion": "增加\"图文教程\"形式内容，用户对图文的提及量远超视频",
+      "priority": "中",
+      "source": "学习风格偏好分析"
+    },
+    {
+      "type": "内容优化",
+      "suggestion": "针对\"完全小白\"群体设计专属入门路径，降低学习门槛",
+      "priority": "中",
+      "source": "用户认知阶段分析"
+    }
+  ]
+}
