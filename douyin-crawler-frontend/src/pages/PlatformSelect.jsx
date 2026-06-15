@@ -165,20 +165,14 @@ const PlatformSelect = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900">
       <div className="container mx-auto px-6 py-16">
-        <div className="text-center mb-16">
-          <div className="inline-flex items-center gap-4 mb-8">
-            <div className="w-16 h-16 bg-gradient-to-br from-primary-500 to-pink-500 rounded-2xl flex items-center justify-center shadow-xl shadow-primary-500/30">
-              <Globe className="w-9 h-9 text-white" />
-            </div>
-          </div>
-          
-          <h1 className="text-5xl md:text-6xl font-bold text-white mb-4 tracking-tight">
+        <div className="text-center mb-12">
+          <h1 className="text-4xl md:text-5xl font-bold text-white mb-3 tracking-tight">
             多平台数据采集系统
           </h1>
-          <p className="text-2xl text-gray-400 mb-4">
+          <p className="text-lg text-gray-400 mb-3">
             Multi-Platform Crawler
           </p>
-          <p className="text-gray-500 text-lg max-w-3xl mx-auto">
+          <p className="text-gray-500 text-base max-w-2xl mx-auto">
             支持抖音、小红书、B站、快手、微博、贴吧、知乎等主流平台的公开数据采集
           </p>
         </div>
